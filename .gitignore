@@ -1,0 +1,15 @@
+# AWS keys and secrets
+.env
+*.pem
+*.csv
+credentials
+
+# Terraform state files (contain sensitive data)
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Python/Node junk
+__pycache__/
+node_modules/
+*.DS_Store
