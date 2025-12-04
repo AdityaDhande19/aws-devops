@@ -6,4 +6,3 @@ docker pull adityad19/simple-python-flask-app:latest
 
 # Run the Docker image as a container
 docker run -d -p 5000:5000 adityad19/simple-python-flask-app:latest
-
